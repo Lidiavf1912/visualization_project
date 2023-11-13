@@ -17,4 +17,4 @@ En la parte superior del dashboard nos encontramos con la información básica c
 
 Posteriormente, continuamos la información de mi experiencia y su información al respecto. Y terminamos con las tools y soft skills adquiridas a lo largo de mi trayectoría académica y laboral.
 
-Para poder visualizar el dashboard pinche [aquí](https://public.tableau.com/views/CV_Lidia_Vinuales/CVLidiaViuales?:language=es-ES&:display_count=n&:origin=viz_share_link).
+Para poder visualizar el dashboard interactivo pinche [aquí](https://public.tableau.com/views/CV_Lidia_Vinuales/CVLidiaViuales?:language=es-ES&:display_count=n&:origin=viz_share_link).
