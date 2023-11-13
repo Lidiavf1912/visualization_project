@@ -1,11 +1,12 @@
 # visualization_project
 ## ¿Cómo realizar tu CV en Tableau?
-A lo largo de este proyecto he desarrollado mi CV en esta herramienta desde 0.
+A lo largo de este proyecto he elaborado mi CV en esta herramienta para llegar al siguiente resultado:
+
 ![](https://github.com/Lidiavf1912/visualization_project/blob/main/imagenes/dashboard.png)
 
 ## Datos empleados
 Para comenzar elaboré un archivo Excel con los datos necesarios para poder desarrollarlo.
-En este archivo realicé 3 hojas distintas, una con tools, otra con mis soft skills y la última con la información respecto a las actividades. Además, fui añadiendo estos datos tanto en inglés como en español, para poder realizar el dashboard en dos idiomas.
+En este archivo realicé 3 hojas distintas, una con tools, otra con mis soft skills y la última con la información respecto a las actividades. Además, fui añadiendo estos datos tanto en inglés como en español para poder realizar el dashboard en los dos idiomas.
 
 ## Elaboración del dashboard
 Para elaborar el informe lo primero que realicé fue importar el archivo Excel. Más tarde cree campos calculados cómo por ejemplo: la fecha de duración de las actividades (fecha final - fecha inicial), mi nombre, mi descripción, etc.
@@ -18,4 +19,4 @@ En la parte superior del dashboard nos encontramos con la información básica c
 
 Posteriormente, continuamos la información de mi experiencia y su información al respecto. Y terminamos con las tools y soft skills adquiridas a lo largo de mi trayectoría académica y laboral.
 
-Para poder visualizar el dashboard interactivo pinche [aquí](https://public.tableau.com/views/CV_Lidia_Vinuales/CVLidiaViuales?:language=es-ES&:display_count=n&:origin=viz_share_link).
+Para poder visualizar el dashboard de forma interactiva pinche [aquí](https://public.tableau.com/views/CV_Lidia_Vinuales/CVLidiaViuales?:language=es-ES&:display_count=n&:origin=viz_share_link).
