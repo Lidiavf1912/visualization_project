@@ -1,6 +1,7 @@
 # visualization_project
 ## ¿Cómo realizar tu CV en Tableau?
 A lo largo de este proyecto he desarrollado mi CV en esta herramienta desde 0.
+![](https://github.com/Lidiavf1912/visualization_project/blob/main/imagenes/dashboard.png)
 
 ## Datos empleados
 Para comenzar elaboré un archivo Excel con los datos necesarios para poder desarrollarlo.
