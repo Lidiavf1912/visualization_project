@@ -2,7 +2,7 @@
 ## ¿Cómo realizar tu CV en Tableau?
 A lo largo de este proyecto he elaborado mi CV en esta herramienta para llegar al siguiente resultado:
 
-![](https://github.com/Lidiavf1912/visualization_project/blob/main/imagenes/dashboard.png)
+![]
 
 ## Datos empleados
 Para comenzar elaboré un archivo Excel con los datos necesarios para poder desarrollarlo.
